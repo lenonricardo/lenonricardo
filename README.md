@@ -1,4 +1,4 @@
-## <div > Sobre <a href="linkedin.com/in/bárbara-cruz-228552199" target="_blank"><img width="20" height="20" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" target="_blank"></a> </div>
+## <div > About me <a href="linkedin.com/in/bárbara-cruz-228552199" target="_blank"><img width="20" height="20" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" target="_blank"></a> </div>
   
 <div align="center">
   <a href="https://github.com/blcrz">
